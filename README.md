@@ -5,10 +5,10 @@
 <p> Foi baseado no livro "C A Linguagem de Programação por Brian W. Kernighan, Dennis M. Ritchie"
 </p>
 
--[Github Pages](https://electronicskitten.github.io/tcpl/)
+- [Github Pages](https://electronicskitten.github.io/tcpl/)
 
 
--[Repositório principal](https://github.com/electronicskitten/tcpl)
+- [Repositório principal](https://github.com/electronicskitten/tcpl)
 
 
 # Mantenedora principal
