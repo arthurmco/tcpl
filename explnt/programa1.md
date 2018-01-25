@@ -2,8 +2,8 @@
 [![asciicast](https://asciinema.org/a/p2OwHVZjrptU9tMy45uskMpw7.png)](https://asciinema.org/a/p2OwHVZjrptU9tMy45uskMpw7)
 
 <blockquote>O GCC reclamou pois não houve declaração prévia sobre as funções que foram usadas no código, sendo assim recebemos vários warnings mesmo com a compilação exatamente igual ao exemplo dado, não importando a forma de compilar, os warnings apareceriam pois em todo programa da linguagem C é necessário incluir os cabeçalhos, com os tradicionais</blockquote>
-C
-```
+
+```C
 #include <stdio.h>
 #include <stdlib.h>
 ```
