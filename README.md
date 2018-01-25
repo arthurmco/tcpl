@@ -6,3 +6,7 @@
 </p>
 
 [Github Pages](https://electronicskitten.github.io/tcpl/)
+
+
+# Mantenedora principal
+- Gabrielle C. Pereira
