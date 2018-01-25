@@ -28,6 +28,6 @@
 
 # Como usar o repositório:
 
-```Flavored Markdown
+```Markdown
 git clone https://github.com/electronicskitten/tcpl
 ```
