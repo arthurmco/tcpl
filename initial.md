@@ -1,18 +1,12 @@
-# Capítulo 1 - First Chapter
-
-<p>Em C o programa para imprimir "primeiro programa" é:
-</p>
-
-<code><pre>
-main ()
+<p># Cap&iacute;tulo 1 - First Chapter</p>
+<p>Em C o programa para imprimir "primeiro programa" &eacute;:</p>
+<p><code><code></code></code></p>
+<pre>main ()
 {
 printf("primeiro programa\n");
 }
-</code></pre>
-
-# GNU C for compilation
-
-Para compilar:
-<code>	
+</pre>
+<p># GNU C for compilation</p>
+<p>Para compilar: <code>	
 gcc -ansi -Wall -pedantic -O3
-</code></pre>
+</code></p>
