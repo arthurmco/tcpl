@@ -1,6 +1,6 @@
 # Cap&iacute;tulo 1 - First Chapter
 <p>Em C o programa para imprimir "primeiro programa" &eacute;:</p>
-<p><code><code></code></code></p>
+<code><code></code></code>
 <pre>main ()
 {
 printf("primeiro programa\n");
