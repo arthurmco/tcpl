@@ -27,7 +27,6 @@
 - [ ] Ajudar o próximo
 
 # Como usar o repositório:
-```
+```Flavored Markdown
 git clone https://github.com/electronicskitten/tcpl
-
 ```
