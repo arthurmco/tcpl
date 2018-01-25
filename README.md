@@ -23,7 +23,7 @@
 - [ ] Chegar até o oitavo capítulo
 - [ ] Coletar o máximo de exemplos, source codes em C
 - [ ] Ensinar, compartilhar
-- [ ]  Material completo | didático
+- [ ] Material completo e didático
 - [ ] Ajudar o próximo
 
 # Como usar o repositório:
