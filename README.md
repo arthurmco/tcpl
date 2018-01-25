@@ -17,3 +17,17 @@
 
 # Status do repositório
 <strong>ESTÁ EM DESENVOLVIMENTO</strong>
+
+# Idéias/metas:
+- [ ] Traduzir para o inglês
+- [ ] Chegar até o oitavo capítulo
+- [ ] Coletar o máximo de exemplos, source codes em C
+- [ ] Ensinar, compartilhar
+- [ ]  Material completo | didático
+- [ ] Ajudar o próximo
+
+# Como usar o repositório:
+```
+git clone https://github.com/electronicskitten/tcpl
+
+```
