@@ -21,3 +21,6 @@ produzirá como saída:
 <pre>primeiro programa</pre>
 Em outros sistemas, as regras serão diferentes;verifique com um especialista.
  </blockquote>
+ </blockquote>
+<h1>Exercício 1-1 | Exercise 1-1</h1>
+<p>Execute este programa no seu sistema.Experimente deixar de fora partes do programa pra ver que mensagem de erro você obtém.</p>
