@@ -2,7 +2,7 @@
 
 
 <p>Em C o programa para imprimir "primeiro programa" é:</p>
-<code><pre>
+<code>
 main ()
 {
 printf("primeiro programa\n");
