@@ -5,7 +5,8 @@ gcc -ansi -Wall -pedantic -O3
 
 <p>Em C o programa para imprimir "primeiro programa" é:</p>
 
-<code><pre>
+<code>
+<pre>
 main ()
 {
 printf("primeiro programa\n");
