@@ -1,8 +1,8 @@
 # GNU C for compilation
 
 
-<p>Em C o programa para imprimir "primeiro programa" é:</p>
-<code>
+<h1>Em C o programa para imprimir "primeiro programa" é:</h1>
+<code><pre>
 main ()
 {
 printf("primeiro programa\n");
