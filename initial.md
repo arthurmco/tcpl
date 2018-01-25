@@ -1,4 +1,4 @@
-<p># Cap&iacute;tulo 1 - First Chapter</p>
+# Cap&iacute;tulo 1 - First Chapter
 <p>Em C o programa para imprimir "primeiro programa" &eacute;:</p>
 <p><code><code></code></code></p>
 <pre>main ()
