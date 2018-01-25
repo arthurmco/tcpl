@@ -19,7 +19,9 @@ Executando-o com o comando
 <pre>a.out</pre>
 produzirá como saída:
 <pre>primeiro programa</pre>
-  [![asciicast](https://asciinema.org/a/LHUFkpW0aT94zybEPoGL87hOA.png)](https://asciinema.org/a/LHUFkpW0aT94zybEPoGL87hOA)
+  
+    [![asciicast](https://asciinema.org/a/LHUFkpW0aT94zybEPoGL87hOA.png)](https://asciinema.org/a/LHUFkpW0aT94zybEPoGL87hOA)
+
 Em outros sistemas, as regras serão diferentes;verifique com um especialista.
  </blockquote>
  </blockquote>
