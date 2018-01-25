@@ -6,6 +6,7 @@
 printf("primeiro programa\n");
 }
 </pre>
+
 # GNU C for compilation
 <p>Para compilar: <code>	
 gcc -ansi -Wall -pedantic -O3
