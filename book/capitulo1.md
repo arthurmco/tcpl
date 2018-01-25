@@ -11,18 +11,15 @@ printf("primeiro programa\n");
 <p>Para compilar: <code>	
 gcc -ansi -Wall -pedantic -O3
 </code></p>
-
+[![asciicast](https://asciinema.org/a/LHUFkpW0aT94zybEPoGL87hOA.png)](https://asciinema.org/a/LHUFkpW0aT94zybEPoGL87hOA)
 <blockquote>O modo de executar este programa depende do sistema que você está usando. Como um exemplo específico, no sistema operacional UNIX você deve criar o programa fonte num arquivo cujo nome termine em ".c", tal como primeiro.c e então compilá-lo com o comando 
   <pre>cc primeiro .c</pre> 
   Se você não errar nada, tal como omitir um caractere ou escrever algo errado, a compilação transcorrerá silenciosamente, e produzirá um arquivo executável chamado como a.out
 Executando-o com o comando 
 <pre>a.out</pre>
 produzirá como saída:
-      [![asciicast](https://asciinema.org/a/LHUFkpW0aT94zybEPoGL87hOA.png)](https://asciinema.org/a/LHUFkpW0aT94zybEPoGL87hOA)
-
 <pre>primeiro programa</pre>
-  
-
+ 
 Em outros sistemas, as regras serão diferentes;verifique com um especialista.
  </blockquote>
  </blockquote>
