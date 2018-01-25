@@ -2,4 +2,5 @@
 
 # O propósito desta criação é ajudar estudantes da linguagem C
 
-<h1> Foi baseado no livro "C A Linguagem de Programação por Brian W. Kernighan, Dennis M. Ritchie"</h1>
+<p> Foi baseado no livro "C A Linguagem de Programação por Brian W. Kernighan, Dennis M. Ritchie"
+</p>
