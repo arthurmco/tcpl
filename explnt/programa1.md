@@ -14,7 +14,7 @@
 ```C
  #include <stdio.h>
  ```
-<blockquote>Em C uma sequência qualquer de número de caracteres entre aspas "...." é chamada de cadeia de caracteres, por ora nosso uso como argumento para printf e outras funções. A notação \n, significa nova linha, ou do inglês<em>newline</em>
+<blockquote>Em C uma sequência qualquer de número de caracteres entre aspas "...." é chamada de cadeia de caracteres, por ora nosso uso como argumento para printf e outras funções. A notação \n, significa nova linha, ou do inglês  <em>newline</em>
 
 
 
