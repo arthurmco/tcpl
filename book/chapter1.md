@@ -36,8 +36,8 @@ Compile command:
 
 # Exercise 1-1
 
-> Run this program in your system. Experiment to let some parts out to see what
-> error messages you get.
+Run this program in your system. Experiment to let some parts out to see what
+eror messages you get.
 
 
 # `a.out` test
